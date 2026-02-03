@@ -35,7 +35,7 @@ body {
 .left-container {
     display:flex;
     background-color: #EFF6FF;
-    background-image: url(/img/bg.jpg);
+    background-image: url(./img/bg.jpg);
     background-repeat: no-repeat;
     background-size: auto;
     width: 760px;
@@ -121,7 +121,7 @@ h1 {
 }
 
 .facebook::before {
-    content: url(/img/facebook.svg);
+    content: url(./img/facebook.svg);
     width: 25px;
     height: 30px;
     margin-left: 10px;
@@ -142,7 +142,7 @@ h1 {
 
 .in::before {
     content: "";
-    background-image: url(/img/linkedin.svg);
+    background-image: url(./img/linkedin.svg);
     background-size: cover;
     width: 20px;
     height:20px;
