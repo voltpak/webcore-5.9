@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Barlow";
-    src: url(/fonts/Barlow-Regular.otf) format("opentype");
+    src: url(./fonts/Barlow-Regular.otf) format("opentype");
 }
 
 body {
@@ -184,7 +184,7 @@ input {
 }
 
 .radio-group label {
-    margin-right: 80px;
+    margin-right: 50px;
 }
 
 .text {
